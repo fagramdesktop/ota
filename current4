@@ -1,14 +1,14 @@
 {
   "linux": {
     "stable": {
-      "link": "/tlinuxupd2002001",
-      "released": "2002001"
+      "link": "/tlinuxupd2002002",
+      "released": "2002002"
     }
   },
   "win64": {
     "stable": {
-      "link": "/tx64upd2002001",
-      "released": "2002001"
+      "link": "/tx64upd2002002",
+      "released": "2002002"
     }
   }
 }
