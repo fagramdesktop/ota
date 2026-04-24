@@ -1,14 +1,26 @@
 {
+  "armac": {
+    "stable": {
+      "link": "/tmacupd2002003",
+      "released": "2002003"
+    }
+  },
   "linux": {
     "stable": {
-      "released": "2002001",
-      "link": "/tlinuxupd2002001"
+      "link": "/tlinuxupd2002003",
+      "released": "2002003"
+    }
+  },
+  "mac": {
+    "stable": {
+      "link": "/tmacupd2002003",
+      "released": "2002003"
     }
   },
   "win64": {
     "stable": {
-      "released": "2002001",
-      "link": "/tx64upd2002001"
+      "link": "/tx64upd2002003",
+      "released": "2002003"
     }
   }
 }
