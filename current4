@@ -1,26 +1,26 @@
 {
   "armac": {
     "stable": {
-      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002004/tmacupd2002004",
-      "released": "2002004"
+      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002007/tmacupd2002007",
+      "released": "2002007"
     }
   },
   "linux": {
     "stable": {
-      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002004/tlinuxupd2002004",
-      "released": "2002004"
+      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002007/tlinuxupd2002007",
+      "released": "2002007"
     }
   },
   "mac": {
     "stable": {
-      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002004/tmacupd2002004",
-      "released": "2002004"
+      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002007/tmacupd2002007",
+      "released": "2002007"
     }
   },
   "win64": {
     "stable": {
-      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002004/tx64upd2002004",
-      "released": "2002004"
+      "link": "https://github.com/fagramdesktop/ota/releases/download/ota-v2002007/tx64upd2002007",
+      "released": "2002007"
     }
   }
 }
